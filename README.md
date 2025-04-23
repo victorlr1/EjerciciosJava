@@ -13,31 +13,31 @@ EjerciciosJava/
 
 ## Tecnologías 
 
-Java 17 (OpenJDK)
+-Java 17 (OpenJDK)
 
-Visual Studio Code
+-Visual Studio Code
 
-Git y GitHub
+-Git y GitHub
 
 ## Temas cubiertos
 
-Condicionales y bucles
+-Condicionales y bucles
 
-Estructuras de datos (arrays, listas, mapas, sets)
+-Estructuras de datos (arrays, listas, mapas, sets)
 
-Algoritmos clásicos
+-Algoritmos clásicos
 
-Recursividad
+-Recursividad
 
-Análisis de cadenas (Strings)
+-Análisis de cadenas (Strings)
 
-Simulación y lógica
+-Simulación y lógica
 
 ## Objetivo
 
 Este repositorio tiene como objetivo consolidar y demostrar el dominio de los fundamentos de programación en Java mediante la resolución de ejercicios prácticos.
 
-Las soluciones están organizadas por nivel de dificultad y por áreas clave como Strings, Estructuras de Datos, Algoritmos, Recursividad y Simulación. También permite mostrar buenas prácticas de programación, uso adecuado de Git y documentación clara del código, haciendo de este proyecto una herramienta útil como portfolio profesional.
+Las soluciones están organizadas por nivel de dificultad y por áreas clave como Strings, Estructuras de Datos, Algoritmos, Recursividad y Simulación. También permite mostrar buenas prácticas de programación, uso adecuado de Git y documentación clara del código.
 
 ## Cómo usar este repositorio
 
