@@ -1,8 +1,8 @@
-Ejercicios Java
+# Ejercicios de Java
 
 Este repositorio contiene una colección de ejercicios resueltos en Java. Están organizados por niveles de dificultad y por categorías (Strings, Arrays, Lógica, Colecciones, etc.), con el objetivo de reforzar y demostrar habilidades fundamentales de programación orientadas al desarrollo profesional.
 
-Estructura del proyecto
+## Estructura
 
 EjerciciosJava/
 ├── EjerciciosBasicos/            # Ejercicios fundamentales (sumas, bucles, condicionales)
@@ -11,7 +11,7 @@ EjerciciosJava/
 │   └── MasEjercicios/            # Subcategorías: Strings, Arrays, Colecciones, Mapas y Sets, Simulación
 └── README.md                     # Documentación del proyecto
 
-Tecnologías usadas
+## Tecnologías 
 
 Java 17 (OpenJDK)
 
@@ -19,7 +19,7 @@ Visual Studio Code
 
 Git y GitHub
 
-Temas cubiertos
+## Temas cubiertos
 
 Condicionales y bucles
 
@@ -33,13 +33,13 @@ Análisis de cadenas (Strings)
 
 Simulación y lógica
 
-Objetivo
+## Objetivo
 
 Este repositorio tiene como objetivo consolidar y demostrar el dominio de los fundamentos de programación en Java mediante la resolución de ejercicios prácticos.
 
-Los ejercicios están organizadas por nivel de dificultad y por áreas clave como Strings, Estructuras de Datos, Algoritmos, Recursividad y Simulación. También permite mostrar buenas prácticas de programación, uso adecuado de Git y documentación clara del código.
+Las soluciones están organizadas por nivel de dificultad y por áreas clave como Strings, Estructuras de Datos, Algoritmos, Recursividad y Simulación. También permite mostrar buenas prácticas de programación, uso adecuado de Git y documentación clara del código, haciendo de este proyecto una herramienta útil como portfolio profesional.
 
-Cómo usar este repositorio
+## Cómo usar este repositorio
 
 Clona el repositorio:
 
@@ -49,16 +49,16 @@ Abre el proyecto en tu IDE favorito (recomendado: VS Code).
 
 Ejecuta los archivos .java de cada carpeta según el tipo de ejercicio.
 
-Contribuciones
+## Contribuciones
 
 Este proyecto ha sido desarrollado de forma personal como ejercicio de práctica intensiva. Toda sugerencia es bienvenida mediante issues o forks.
 
-Contacto
+## Contacto
 
 Si deseas ponerte en contacto, puedes escribirme a través de LinkedIn o revisar otros proyectos en mi GitHub.
 
 Gracias por visitar este proyecto
-## 🙌 Autor
+## Autor
 
 Víctor León Rodríguez
 [LinkedIn](https://www.linkedin.com/in/victorlrl) 
